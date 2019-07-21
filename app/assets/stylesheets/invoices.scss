@@ -1,0 +1,19 @@
+// Place all the styles related to the Invoices controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.header-title{
+  background-image: linear-gradient(to top, #841e8e, #8b1b96, #91179e, #9811a6, #9f09ae);
+  color:white;
+  padding-bottom:none;
+}
+.invoices-cont{
+  background-image: linear-gradient(to top, #1e7f8e, #1b899a, #1792a6, #119cb2, #07a6be);
+  height: 100vh;
+  padding-top:none;
+  color:#8b1b96;
+  font-size: 26px;
+
+}
+.invoices-cont h1{
+  color:white;
+}
